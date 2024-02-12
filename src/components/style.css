@@ -1,0 +1,10 @@
+.drops{
+    border: none !important;
+    background-color: rgba(245, 245, 220, 0) !important;
+}
+
+.drops:hover{
+    outline: none;
+    background-color: rgba(245, 245, 220, 0) !important
+    ;
+} 
